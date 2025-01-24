@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
+- National Scholarship of China (top 0.2% nationwide), 2023–2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- National Scholarship of China (top 0.2% nationwide), 2022–2023.
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Zhejiang University Student Science and Technology Innovation Activity Program (funded with 10,000 RMB), 2023.

@@ -1,12 +1,15 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- **J. Wei**, Y. Zhu, L. Zhuo, et al. (2024). Efficient Deep Model Ensemble Framework for Drug-Target Interaction Prediction. **The Journal of Physical Chemistry Letters**. (Cover Article, Nature Index, JCR Q1). [[Paper]](https://doi.org/10.1021/acs.jpclett.4c01509)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **J. Wei**, L. Zhuo, X. Fu, et al. (2024). DrugReAlign: A Multisource Prompt Framework for Drug Repurposing Based on Large Language Models. **BMC Biology**. (JCR Q1). [[Paper]](https://doi.org/10.1186/s12915-024-02028-3)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- **J. Wei**, L. Zhuo, Z. Zhou, et al. (2023). GCFMCL: predicting miRNA-drug sensitivity using graph collaborative filtering and multi-view contrastive learning. **Briefings in Bioinformatics**. (JCR Q1). [[Paper]](https://doi.org/10.1093/bib/bbad247)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- **J. Wei**, L. Wang, Z. Zhou, et al. (2024). BloodPatrol: Revolutionizing Blood Cancer Diagnosis - Advanced Real-Time Detection Leveraging Deep Learning & Cloud Technologies. **Journal of Biomedical And Health Informatics**. (JCR Q1). [[Paper]](https://doi.org/10.1109/JBHI.2024.3496294)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- **J. Wei**, L. Zhuo, S. Pan, et al. (2023). Headtailtransfer: an efficient sampling method to improve the performance of graph neural network method in predicting sparse ncrna–protein interactions. **Computers in Biology and Medicine**. (JCR Q1). [[Paper]](https://doi.org/10.1016/j.compbiomed.2023.106783)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **J. Wei**, Z. Li, L. Zhuo, et al. (2024). Enhancing drug–food interaction prediction with precision representations through multilevel self-supervised learning. **Computers in Biology and Medicine**. (JCR Q1). [[Paper]](https://doi.org/10.1016/j.compbiomed.2024.108104)
 
+- R. Wang, T. Wang, L. Zhuo, **J. Wei**, et al. (2024). Diff-AMP: tailored designed antimicrobial peptide framework with all-in-one generation, identification, prediction and optimization. **Briefings in Bioinformatics**. (JCR Q1). [[Paper]](https://doi.org/10.1093/bib/bbae078)
+
+- Z. Zhou, Q. Liao, **J. Wei**, et al. (2024). Revisiting drug–protein interaction prediction: a novel global–local perspective. **Bioinformatics**. (JCR Q1). [[Paper]](https://doi.org/10.1093/bioinformatics/btae271)
