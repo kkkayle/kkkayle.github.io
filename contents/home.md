@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kkkayle-blue?logo=github)](https://github.com/kkkayle)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Jinhang%20Wei-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VfIshWMAAAAJ&hl)
-[![ORCID](https://img.shields.io/badge/ORCID-Jinhang%20Wei-blue?logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-6957-3472)
+[![ORCID](https://img.shields.io/badge/ORCID-Jinhang%20Wei-blue?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6957-3472)
 
 
 #### About Me
