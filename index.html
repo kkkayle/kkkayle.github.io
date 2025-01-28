@@ -61,13 +61,13 @@
                 useLabelIds: true,         // use label name rather than tag for ids
                 maxMacros: 10000,          // maximum number of macro substitutions per expression
                 maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
+                // baseURL:               // (省略)
+                formatError:
                     (jax, err) => jax.formatError(err)
             }
         };
     </script>
+    <!-- 注意：如果只用一个渲染器，可只保留其中一个 -->
     <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
@@ -99,7 +99,6 @@
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
                     </li>
-
                 </ul>
             </div>
         </div>
@@ -118,7 +117,7 @@
     <!-- Photo -->
     <div class="container px-5">
         <div id="avatar">
-            <img class="shadow" src="static/assets/img/photo.png">
+            <img class="shadow" src="static/assets/img/photo.png" alt="Avatar">
         </div>
     </div>
     <!-- Photo -->
@@ -127,8 +126,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
         <div class="container px-5">
             <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
+                <h2 id="home-subtitle"></h2>
             </header>
             <div class="main-body" id="home-md"></div>
         </div>
@@ -142,7 +140,6 @@
                 <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
             </header>
             <div class="main-body" id="publications-md"></div>
-
         </div>
     </section>
     <!-- Publications  -->
@@ -151,32 +148,32 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
         <div class="container px-5">
             <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
+                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS</h2>
             </header>
             <div class="main-body" id="awards-md"></div>
-
         </div>
     </section>
     <!-- Awards -->
-
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div style="text-align: center; margin-top: 20px;">
-                    <script type="text/javascript" id="clustrmaps" 
-                        src="//clustrmaps.com/map_v2.js?d=bg274Io_2cZ_AzHnIBBsDLQcT280Wra8Le77_S6NI_8&cl=ffffff&w=a">
+                    <!-- ClustrMaps 旧版本地图脚本 -->
+                    <!-- ClustrMaps 新版 Globe 脚本 -->
+                    <script type="text/javascript" id="clstr_globe"
+                        src="//clustrmaps.com/globe.js?d=bg274Io_2cZ_AzHnIBBsDLQcT28OWra8Le77_S6NI_8">
                     </script>
                 </div>
                 <div id="copyright-text" class="mb-2"></div>
                 <a id="github-link" href="https://github.com/senli1073">Github</a>
                 <span class="mx-1">&middot;</span>
-                <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
+                <a id="license-link"
+                   href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
             </div>
         </div>
     </footer>
 
 </body>
-
 </html>
