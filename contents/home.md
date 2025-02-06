@@ -12,7 +12,15 @@ I have published papers as the first author in several high-impact journals, inc
 - *J. Phys. Chem. Lett.* (Cover Article, Nature Index)
 - *BMC Biol.*
 - *Brief Bioinform.*
-- *IEEE J. Biomed. Health*, and more.
+- *IEEE J. Biomed. Health*, etc.
+
+
+I have served as a reviewer for the following journals:
+
+- *Engineering Applications of Artificial Intelligence*
+- *Expert Systems with Applications*
+- *Information Sciences*
+- *Neurocomputing*, etc.
 
 #### Links
 - **Email:** [wei00394@umn.edu](mailto:wei00394@umn.edu)
