@@ -5,7 +5,7 @@
 
 #### About Me
 
-Hi, I’m **Jinhang Wei**, a senior undergraduate student at the **University of Minnesota, Twin Cities**. I am also working as a remote research assistant at the [University of Florida](https://yanjun-li.com/). My research interests lie at the intersection of **Deep Learning** and **Life Sciences**, with a particular focus on **AI-driven Drug Discovery (AIDD)**.
+Hi, I’m **Jinhang Wei**, a senior undergraduate student at the **University of Minnesota, Twin Cities**. I am also working as a remote research assistant at the **University of Florida**. My research interests lie at the intersection of **Deep Learning** and **Life Sciences**, with a particular focus on **AI-driven Drug Discovery (AIDD)**.
 
 I have published papers as the first author in several high-impact journals, including:
 
