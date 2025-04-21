@@ -1,7 +1,9 @@
 # AI vs. Cancer: How Large Language Models Are Revolutionizing Drug Discovery
 
 <p align="center">
+
 ![Figure 1: The Promise and Perils of AI in Cancer Drug Development](static/assets/img/figure1.png)
+
 </p>
 
 ## AI predicts protein structure: a new milestone in drug development
@@ -9,7 +11,9 @@
 Cancer, as one of the diseases that are difficult to cure for humans, takes many lives every day. With the development of life sciences, more and more scientists are committed to studying **anti-cancer drugs** to save more lives. In recent years, **artificial intelligence (AI)** has played a very important role in the field of drug discovery. It is expected to accurately identify target proteins and develop anti-cancer drugs with unimaginable efficiency. As we all know, David Baker, Demis Hassabis, and John M. Jumper won the **2024 Nobel Prize in Chemistry** for the theme of **AI protein structure prediction** (Nobel Prize Outreach, 2024). The AI tool is **AlphaFold**. It accurately predicts protein structure through deep learning models. It used to take a lot of time for researchers to analyze a protein structure, but AlphaFold only takes a few minutes on a computing cluster to predict hundreds of thousands of proteins, which completely changed structural biology. Why is protein structure so important for drug development? Because understanding the three-dimensional shape of the protein structure is equivalent to telling us the **design blueprint** of the protein, which allows us to know how to intervene in the protein. Many cancers are caused by abnormal protein function or abnormal signaling pathways. By accurately predicting these structures, researchers can understand the molecular mechanism of the disease and design drugs that **precisely match the protein pocket**. To use a common example, it is like knowing the shape of the **keyhole (protein)**, we can design the corresponding **key (drug)**. In addition to AlphaFold, **LLMs** represented by ChatGPT are also widely used in the field of bioinformatics due to their strong generalization ability and interpretability, and more and more drug research on LLMs is underway, which may completely change the paradigm of drug development. However, the rapid development of these models has brought new opportunities, but their **credibility and ethical issues** have also attracted some challenges and controversies. :contentReference[oaicite:0]{index=0}​:contentReference[oaicite:1]{index=1}
 
 <p align="center">
+
 ![Figure 2: (a) The 2024 Nobel Prize in Chemistry was awarded to three scientists for their contributions to protein structure prediction. (b) Schematic diagram of protein structure predicted by AlphaFold3. (c) Schematic diagram of the “lock‑key” model.](static/assets/img/figure2.png)
+
 </p>
 
 ---
