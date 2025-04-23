@@ -1,9 +1,16 @@
 # AI vs. Cancer: How Large Language Models Are Revolutionizing Drug Discovery
 
 <div align="center">
-
-<img src="static/assets/img/figure1.png" alt="Figure 1: The Promise and Perils of AI in Cancer Drug Development" style="max-width: 100%; height: auto;" />
-
+  <figure>
+    <img 
+      src="static/assets/img/figure1.png" 
+      alt="Figure 1: The Promise and Perils of AI in Cancer Drug Development" 
+      style="max-width: 100%; height: auto;" 
+    />
+    <figcaption>
+      Figure 1: The Promise and Perils of AI in Cancer Drug Development
+    </figcaption>
+  </figure>
 </div>
 
 ## AI predicts protein structure: a new milestone in drug development
@@ -11,9 +18,16 @@
 Cancer, as one of the diseases that are difficult to cure for humans, takes many lives every day. With the development of life sciences, more and more scientists are committed to studying **anti-cancer drugs** to save more lives. In recent years, **artificial intelligence (AI)** has played a very important role in the field of drug discovery. It is expected to accurately identify target proteins and develop anti-cancer drugs with unimaginable efficiency. As we all know, David Baker, Demis Hassabis, and John M. Jumper won the **2024 Nobel Prize in Chemistry** for the theme of **AI protein structure prediction** (Nobel Prize Outreach, 2024). The AI tool is **AlphaFold**. It accurately predicts protein structure through deep learning models. It used to take a lot of time for researchers to analyze a protein structure, but AlphaFold only takes a few minutes on a computing cluster to predict hundreds of thousands of proteins, which completely changed structural biology. Why is protein structure so important for drug development? Because understanding the three-dimensional shape of the protein structure is equivalent to telling us the **design blueprint** of the protein, which allows us to know how to intervene in the protein. Many cancers are caused by abnormal protein function or abnormal signaling pathways. By accurately predicting these structures, researchers can understand the molecular mechanism of the disease and design drugs that **precisely match the protein pocket**. To use a common example, it is like knowing the shape of the **keyhole (protein)**, we can design the corresponding **key (drug)**. In addition to AlphaFold, **LLMs** represented by ChatGPT are also widely used in the field of bioinformatics due to their strong generalization ability and interpretability, and more and more drug research on LLMs is underway, which may completely change the paradigm of drug development. However, the rapid development of these models has brought new opportunities, but their **credibility and ethical issues** have also attracted some challenges and controversies. 
 
 <div align="center">
-
-<img src="static/assets/img/figure2.png" alt="Figure 2: (a) The 2024 Nobel Prize in Chemistry was awarded to three scientists for their contributions to protein structure prediction. (b) Schematic diagram of protein structure predicted by AlphaFold3. (c) Schematic diagram of the “lock‑key” model." style="max-width: 100%; height: auto;" />
-
+  <figure>
+    <img 
+      src="static/assets/img/figure2.png" 
+      alt="Figure 2: (a) The 2024 Nobel Prize in Chemistry was awarded to three scientists for their contributions to protein structure prediction. (b) Schematic diagram of protein structure predicted by AlphaFold3. (c) Schematic diagram of the “lock‑key” model." 
+      style="max-width: 100%; height: auto;" 
+    />
+    <figcaption>
+      Figure 2: (a) The 2024 Nobel Prize in Chemistry was awarded to three scientists for their contributions to protein structure prediction. (b) Schematic diagram of protein structure predicted by AlphaFold3. (c) Schematic diagram of the “lock‑key” model.
+    </figcaption>
+  </figure>
 </div>
 
 
@@ -24,7 +38,7 @@ Cancer, as one of the diseases that are difficult to cure for humans, takes many
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHL2VmnfYo4?si=m1N4YEdkYAVPs50D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-This public panel features academic researchers, startup employees, and pharmaceutical industry professionals. Notably, Virginia stated that their company possesses a large amount of patient data and mentioned: *"we've dealt that mainly in the cardiovascular space and we're able to validate our first Target that way,"* as well as: *"using our own tools but some of them are language based especially we use that for unstructured data so meaning you know data part of the electronic health record that are you know doctor's notes for example so we are able to extract information from those unstructured data using machine learning."* This indicates that the industry has already begun utilizing LLMs as tools in drug development and has successfully validated a drug target using such methods, which shows strong proof of the great promise of LLMs in anticancer drug discovery (Gulf Coast Consortia - Research, 2024).
+This public panel features academic researchers, startup employees, and pharmaceutical industry professionals. Notably, Virginia stated that their company possesses a large amount of patient data and mentioned: *"we've dealt that mainly in the cardiovascular space and we're able to validate our first Target that way,"(Gulf Coast Consortia - Research, 2024, 0:50)* as well as: *"using our own tools but some of them are language based especially we use that for unstructured data so meaning you know data part of the electronic health record that are you know doctor's notes for example so we are able to extract information from those unstructured data using machine learning."(Gulf Coast Consortia - Research, 2024, 8:41)* This indicates that the industry has already begun utilizing LLMs as tools in drug development and has successfully validated a drug target using such methods, which shows strong proof of the great promise of LLMs in anticancer drug discovery (Gulf Coast Consortia - Research, 2024).
 
 The video also discusses the opportunity to use LLMs to establish new treatment models, such as revealing drug repurposing opportunities and guiding clinical trial design. However, it stresses the need for ethical safeguards, the need for practitioners to consider data privacy, and the bigger community implications this technology may bring (Gulf Coast Consortia - Research, 2024).
 
