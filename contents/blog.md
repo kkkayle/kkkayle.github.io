@@ -23,7 +23,7 @@ Cancer, as one of the diseases that are difficult to cure for humans, takes many
     <img 
       src="static/assets/img/figure2.png" 
       alt="Figure 2: The 2024 Nobel Prize in Chemistry was awarded to three scientists for their contributions to protein structure prediction." 
-      style="max-width: 100%; height: auto;" 
+      style="max-width: 50%; height: auto;" 
     />
     <figcaption>
       Figure 2: The 2024 Nobel Prize in Chemistry was awarded to three scientists for their contributions to protein structure prediction.
@@ -36,7 +36,7 @@ Cancer, as one of the diseases that are difficult to cure for humans, takes many
     <img 
       src="static/assets/img/figure3.png" 
       alt="Figure 3: Schematic diagram of protein structure predicted by AlphaFold3" 
-      style="max-width: 100%; height: auto;" 
+      style="max-width: 60%; height: auto;" 
     />
     <figcaption>
       Figure 3: Schematic diagram of protein structure predicted by AlphaFold3
@@ -49,7 +49,7 @@ The AI tool is **AlphaFold**. It accurately predicts protein structure through d
     <img 
       src="static/assets/img/figure4.png" 
       alt="Figure 4: Schematic diagram of the “lock‑key” model." 
-      style="max-width: 100%; height: auto;" 
+      style="max-width: 60%; height: auto;" 
     />
     <figcaption>
       Figure 4: Schematic diagram of the “lock‑key” model.
