@@ -1,5 +1,7 @@
 # AI vs. Cancer: How Large Language Models Are Revolutionizing Drug Discovery
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrBzjIJ7sbs?si=bpOY44KuX6KbTZq-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div align="center">
   <figure>
     <img 
